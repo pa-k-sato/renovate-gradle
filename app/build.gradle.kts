@@ -24,7 +24,7 @@ dependencies {
 
     // Use the JUnit 5 integration.
     // testImplementation("org.junit.jupiter:junit-jupiter-engine:5.9.2")
-    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.8.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.10.0")
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
